@@ -305,3 +305,7 @@ TSWLatexianTemp*
 pycache/*
 vscode/*
 *.ipnyb
+
+# Matlab files and documentation
+fig/
+*.m
